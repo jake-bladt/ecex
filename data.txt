@@ -14,20 +14,15 @@ x999
 x999 
 x999 
 
-git add -A
-git commit --allow-empty --date="Sun Aug 01 14:02 2021 +0100" -m "New data"
-
-echo x999 >> data.txt
-git add -A
-git commit --allow-empty --date="Sun Aug 01 14:03 2021 +0100" -m "New data"
-
-echo x999 >> data.txt
-git add -A
-git commit --allow-empty --date="Sun Aug 01 14:04 2021 +0100" -m "New data"
-
-echo x999 >> data.txt
-git add -A
-git commit --allow-empty --date="Sun Aug 01 14:05 2021 +0100" -m "New data"
+x999 
+x999 
+x999 
+x999 
+x999 
+x999 
+x999 
+x999 
+x999 
 x999 
 x999 
 x999 
